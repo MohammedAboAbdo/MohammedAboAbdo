@@ -1,9 +1,5 @@
 <h1 align="center">Hi there! 👋</h1>
 
-<div align="center">
-  <img src="https://capsules-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=30&fontAlign=50&fontAlignY=30" alt="Header" />
-</div>
-
 <h3 align="center">Passionate IT Student & Web Developer</h3>
 
 ---
@@ -34,15 +30,6 @@ I'm a developer who enjoys building systems from the ground up, with a strong fo
 **Tools & OS:**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-</div>
 
 ---
 <div align="center">
